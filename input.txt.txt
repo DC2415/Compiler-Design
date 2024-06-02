@@ -1,0 +1,8 @@
+int main(){
+int a = 5;
+printf("Hello");
+c = a + 15;
+string = "DC";
+const al = 99;
+printf("ans = ", al+c);
+}

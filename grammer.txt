@@ -1,0 +1,2 @@
+S -> Sab | Sb | c 
+A -> Ab | d
